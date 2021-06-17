@@ -20,7 +20,7 @@ if (!$comment) $errors[count($errors)] = 'Please enter your message.';
 if (!$errors) {
 
 	//recipient - replace your email here
-	$to = 'officezuthemes@gmail.com';	
+	$to = 'vdakhtn@gmail.com';	
 	//sender - from the form
 	$from = $name . ' <' . $email . '>';
 
